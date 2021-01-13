@@ -34,7 +34,7 @@ class BotHandler:
         return last_update
 
 
-token = '1522327684:AAFOXhRg6lh7RuqFNEcmSUW7kbtQpssox-U' #Token of your bot
+token = 'token' #Token of your bot
 chatbot_bot = BotHandler(token) #Your bot's name
 
 
